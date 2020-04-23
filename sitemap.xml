@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/overview/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/tasks/beds/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/tasks/ponycopters/configuring-ponycopters/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/getting-started/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/1.-getting-started/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,53 +13,23 @@
   </url>
   
   <url>
-    <loc>/docs/tasks/ponycopters/launching-ponycopters/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/2.-tutorials/multi-bear/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/tutorials/multi-bear/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/2.-tutorials/tutorial2/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/tasks/porridge/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/2.-tutorials/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/concepts/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/tasks/task/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/tutorials/tutorial2/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/tasks/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/tutorials/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/reference/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/contribution-guidelines/</loc>
-    <lastmod>2020-04-20T06:58:58-07:00</lastmod>
+    <loc>/docs/3.-api-reference/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,18 +38,28 @@
   </url>
   
   <url>
-    <loc>/docs/getting-started/example-page/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/1.-getting-started/example-page/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/reference/parameter-reference/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/3.-api-reference/api-reference/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/tasks/ponycopters/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/3.-api-reference/parameter-reference/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/3.-api-reference/swagger/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/3.-api-reference/type-reference/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
