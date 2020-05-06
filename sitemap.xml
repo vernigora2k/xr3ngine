@@ -4,16 +4,16 @@
   
   <url>
     <loc>/docs/01-getting-started/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/03-contacts/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/02-accounts/</loc>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/03-contacts/</loc>
     <lastmod>2020-05-05T22:51:56-07:00</lastmod>
   </url>
   
@@ -23,38 +23,38 @@
   </url>
   
   <url>
-    <loc>/docs/09-advanced/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/docs/05-content/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/07-payments/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/08-spoke/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/06-user-interface/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/07-payments/</loc>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/08-spoke/</loc>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/09-advanced/</loc>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/10-api-reference/</loc>
-    <lastmod>2020-05-05T22:51:56-07:00</lastmod>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/11-contribution/</loc>
-    <lastmod>2020-05-05T21:29:43-07:00</lastmod>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
   </url>
   
   <url>
@@ -114,7 +114,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-05T21:29:43-07:00</lastmod>
+    <lastmod>2020-05-06T10:44:21-07:00</lastmod>
   </url>
   
 </urlset>
