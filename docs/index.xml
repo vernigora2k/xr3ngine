@@ -617,10 +617,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Example Page</title>
-      <link>/docs/1.-getting-started/example-page/</link>
+      <link>/docs/examples/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/1.-getting-started/example-page/</guid>
+      <guid>/docs/examples/example-page/</guid>
       <description>
         
         
