@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -93,13 +93,23 @@
   </url>
   
   <url>
+    <loc>/docs/reference/file-upload/</loc>
+    <lastmod>2020-05-05T16:32:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/reference/video-caching/</loc>
+    <lastmod>2020-05-05T16:32:32-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/docs/tasks/ponycopters/</loc>
     <lastmod>2020-04-20T05:40:55-07:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2020-04-20T07:05:11-07:00</lastmod>
+    <lastmod>2020-05-05T13:34:50-07:00</lastmod>
   </url>
   
   <url>
@@ -114,7 +124,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-04-20T06:58:58-07:00</lastmod>
+    <lastmod>2020-05-05T13:32:21-07:00</lastmod>
   </url>
   
 </urlset>
