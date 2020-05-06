@@ -4,7 +4,7 @@
   
   <url>
     <loc>/docs/1.-getting-started/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
   </url>
   
   <url>
@@ -14,22 +14,32 @@
   
   <url>
     <loc>/docs/2.-tutorials/multi-bear/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/accounts/</loc>
+    <lastmod>2020-05-05T18:23:54-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/2.-tutorials/tutorial2/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/2.-tutorials/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/3.-api-reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/contribution-guidelines/</loc>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
   </url>
   
   <url>
@@ -39,42 +49,42 @@
   
   <url>
     <loc>/docs/1.-getting-started/example-page/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/3.-api-reference/api-reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/3.-api-reference/parameter-reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/3.-api-reference/swagger/</loc>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/3.-api-reference/type-reference/</loc>
+    <lastmod>2020-05-05T18:31:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/3.-api-reference/file-upload/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/reference/file-upload/</loc>
-    <lastmod>2020-05-05T16:32:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/reference/video-caching/</loc>
-    <lastmod>2020-05-05T16:32:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/docs/tasks/ponycopters/</loc>
-    <lastmod>2020-04-20T05:40:55-07:00</lastmod>
+    <loc>/docs/3.-api-reference/video-caching/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2020-05-05T13:34:50-07:00</lastmod>
+    <lastmod>2020-05-05T18:23:54-07:00</lastmod>
   </url>
   
   <url>
