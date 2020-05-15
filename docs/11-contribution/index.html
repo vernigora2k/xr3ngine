@@ -518,8 +518,76 @@
 <li>Please develop on your own branch and submit PRs for review</li>
 <li>Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.</li>
 <li>Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is <a href="https://semver.org/">SemVer</a>.</li>
-<li>You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you * may request the second reviewer to merge it for you.</li>
+<li>Core leadership will accept your Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you * may request the second reviewer to merge it for you.</li>
 </ul>
+<p>PR Template:</p>
+<ol>
+<li>What is the purpose of this PR?</li>
+<li>What does issue #s are solved by this PR?</li>
+<li>What unit tests have been put in place?</li>
+<li>How does our QA team test this PR?</li>
+<li>What files or features are including in this PR that are not related to the main feature?</li>
+</ol>
+<p>Var, func, const, braces,</p>
+<p><a href="https://www.youtube.com/watch?v=Cla1WwguArA">https://www.youtube.com/watch?v=Cla1WwguArA</a></p>
+<p>Code Standards
+Use linting engine (Standard.js + TypeScript config)
+Use automatic code formatter (prettier)
+120 char line limit, whenever possible (in code, READMEs)</p>
+<p>ES6 Tutorials</p>
+<p>Linting - TypeScript, JS and React (JSX)</p>
+<p><a href="https://github.com/nvm-sh/nvm">https://github.com/nvm-sh/nvm</a></p>
+<p>Which engine, tslint or eslint?
+A: eslint, see VSCode blog post.</p>
+<p>Which config?
+A: TypeScript + Standard.js
+<a href="https://www.npmjs.com/package/eslint-config-standard-with-typescript">https://www.npmjs.com/package/eslint-config-standard-with-typescript</a></p>
+<p>VisualStudio Code TS linting plugins:
+<a href="https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs">https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs</a></p>
+<p>Intellij WebStorm linting plugins:</p>
+<p>Linting - Markdown</p>
+<p>READMEs
+<a href="https://github.com/RichardLitt/standard-readme">https://github.com/RichardLitt/standard-readme</a>
+Dev Setup
+You will need yarn, npm and Docker at a minimum
+Deploy Instructions
+Deployment instructions are covered per-repo, however, to deploy the whole develop cluster, please look at github.com/xrchat/xrchat-ops
+Notes &amp; Tools
+Kubernetes
+<a href="https://learnk8s.io/nodejs-kubernetes-guide">https://learnk8s.io/nodejs-kubernetes-guide</a>
+<a href="https://github.com/learnk8s/knote-js/tree/master/04-05">https://github.com/learnk8s/knote-js/tree/master/04-05</a>
+<a href="https://k8slens.dev/">https://k8slens.dev/</a>
+Visual Studio Code</p>
+<p>VS Remote WSL &amp; Containers
+<a href="https://code.visualstudio.com/docs/remote/remote-overview">https://code.visualstudio.com/docs/remote/remote-overview</a></p>
+<p>IntelliCode
+<a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode">https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode</a></p>
+<p>AWS Toolkit
+<a href="https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode">https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode</a></p>
+<p>classdiagram-ts
+<a href="https://marketplace.visualstudio.com/items?itemName=AlexShen.classdiagram-ts">https://marketplace.visualstudio.com/items?itemName=AlexShen.classdiagram-ts</a></p>
+<p>JSON to TS
+<a href="https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts">https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts</a></p>
+<p>LiveShare <a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare</a></p>
+<p>Move TS - Move TypeScript files and update relative imports  <a href="https://marketplace.visualstudio.com/items?itemName=stringham.move-ts">https://marketplace.visualstudio.com/items?itemName=stringham.move-ts</a></p>
+<p>npm Intellisense
+<a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense</a></p>
+<p>Prettier - Code formatter
+<a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode</a></p>
+<p>Docker
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker">https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker</a></p>
+<p>Kubernetes
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools">https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools</a></p>
+<p>3D Viewer for VSCode
+<a href="https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-3dviewer">https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-3dviewer</a></p>
+<p>markdownlint
+<a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint">https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint</a>
+Reading List
+Mozilla Hubs concept/tech comparison
+ECS Enabling MMOs
+Entity Systems Wiki
+gltf Overview
+ECS JS Example</p>
 
         <div class="section-index">
     
@@ -571,7 +639,7 @@
 
 	
 	
-	<div class="text-muted mt-5 pt-3 border-top">Last modified May 6, 2020: <a  href="https://github.com/xrchat/xrchat-docs/commit/55805afe273d5e64040f45ccc837d2c20ccf0f9c">Cleaned up spare files. (55805af)</a>
+	<div class="text-muted mt-5 pt-3 border-top">Last modified May 14, 2020: <a  href="https://github.com/xrchat/xrchat-docs/commit/a57da761497bbd3f93e8163d5625d59f7bcca838">Patching layout issues. (a57da76)</a>
 </div>
 </div>
 
